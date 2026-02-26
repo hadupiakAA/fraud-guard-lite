@@ -162,4 +162,4 @@ Fraud Probability Score
 
 ## Author
 
-Developed as part of AI internship preparation.
+Hadupiak Anastasia
